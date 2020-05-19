@@ -1,0 +1,51 @@
+*{
+	font-family: Montserrat;
+}
+hr{
+	border:2px solid black;
+}
+h1{
+	color:white;
+	
+}
+p{
+	color:white;
+}
+/*Service section*/
+#services_offered{
+	margin-top: 30px;
+}
+.services-columne{
+	padding: 20px;
+	text-align: center;
+}
+.services-content{
+	margin-top: 20px;
+}
+/*Gallery section*/
+#gallery{
+	margin-top: 30px;
+}
+.image-container{
+	text-align: center;
+}
+button{
+	margin-bottom: 30px;
+}
+footer{
+	padding: 30px;
+	background-color: black;
+	color: white;
+}
+.footer-link{
+	color: white;
+}
+.footer-link:hover {
+	color: red;
+}	
+ul{
+	list-style: none;
+} 
+.text-container{
+	color:red;
+}
